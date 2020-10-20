@@ -1,1 +1,3 @@
 # Hackintosh
+
+MOJAVE AND CATALINA
